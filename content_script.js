@@ -31,8 +31,11 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bBabcock\b/g, "Dad Bab Clock");
-	v = v.replace(/\bbabcock\b/g, "Dad Bab Clock");
+	if (/\bBABCOCK\b/g.test(v)) {
+		v = v.replace(/\bBABCOCK\b/g, "DAD BAB CLOCK");
+	} else {
+		v = v.replace(/\bBabcock\b/ig, "Dad Bab Clock");
+	}
 	
 	textNode.nodeValue = v;
 }
