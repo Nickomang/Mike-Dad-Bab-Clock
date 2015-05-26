@@ -4,7 +4,7 @@ Mike Dad Bab Clock
 Chrome extension that replicate's Don Cherry's attempt to pronounce Mike Babcock's name on your machine,
 replacing 'Babcock' with 'Dad Bab Clock'. I tell 'ya, boy.
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/Nickomang/Mike-Dad-Bab-Clock/blob/master/mdbc.crx?raw=true)
 
 Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
 In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
