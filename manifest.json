@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Mike Dad Bab Clock",
 	"version": "1.0",
-	"description": "Replicates Don Cherry's attempt to say Mike Babcock's name.",
+	"description": "Chrome extension that replicate's Don Cherry's attempt to pronounce Mike Babcock's name on your machine, replacing 'Babcock' with 'Dad Bab Clock'.",
 	"content_scripts": 
 	[
 		{
